@@ -1,1 +1,1 @@
-# d2c-churn-eda-business-understanding
+# d2c-churn-intelligence-capstone
